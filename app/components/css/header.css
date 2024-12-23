@@ -1,0 +1,32 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(167, 227, 167);
+}
+div {
+  display: flex;
+  gap: 15px;
+  margin-left: 10px;
+  align-items: center;
+}
+#title {
+  font-size: larger;
+}
+ul {
+  display: flex;
+  gap: 30px;
+  margin-right: 30px;
+  align-items: center;
+}
+
+#logo {
+  border-radius: 16px;
+  border: 1px solid black;
+  height: 50px;
+  width: 50px;
+  margin: 5px 10px;
+}
+
+svg {
+  height: 27px;
+}

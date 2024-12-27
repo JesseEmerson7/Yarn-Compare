@@ -1,0 +1,1 @@
+//card displayed on the dahsboard page

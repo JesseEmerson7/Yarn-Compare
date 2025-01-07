@@ -4,7 +4,7 @@ import "./css/header.css";
 export default function Header() {
   return (
     <header>
-      <div>
+      <div id="headerDiv">
         <Link id="title" href={"/"}>
           <img id="logo" src="/images/logo.png" alt="yarn Compare Logo" />
         </Link>
